@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>DA79AF32-DC4B-4872-B113-BC5D2FF30CDF</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ActivityGame</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>D0CDBFBA28AB4D6AE13ED28EE08F5DCEF78621C2</key>
+		<string>https://git.oschina.net/studentdeng/ActivityGame.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ActivityGame/ActivityGame.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>D0CDBFBA28AB4D6AE13ED28EE08F5DCEF78621C2</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://git.oschina.net/studentdeng/ActivityGame.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>D0CDBFBA28AB4D6AE13ED28EE08F5DCEF78621C2</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>D0CDBFBA28AB4D6AE13ED28EE08F5DCEF78621C2</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ActivityGame</string>
+		</dict>
+	</array>
+</dict>
+</plist>

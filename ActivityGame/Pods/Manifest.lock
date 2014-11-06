@@ -1,0 +1,16 @@
+PODS:
+  - AVOSCloud (2.6.7)
+  - SVProgressHUD (1.0)
+  - TransitionKit (2.1.1)
+
+DEPENDENCIES:
+  - AVOSCloud
+  - SVProgressHUD
+  - TransitionKit
+
+SPEC CHECKSUMS:
+  AVOSCloud: b9b7123e576d9d4a30d912e52a100a2561f841dd
+  SVProgressHUD: 5034c6e22b8c2ca3e09402e48d41ed0340aa1c50
+  TransitionKit: 9ce324caba25cb0a4c9f3334302d89685595455c
+
+COCOAPODS: 0.34.4

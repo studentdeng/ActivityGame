@@ -1,0 +1,6 @@
+#include "Pods-AVOSCloud.xcconfig"
+FRAMEWORK_SEARCH_PATHS = ${PODS_AVOSCLOUD_FRAMEWORK_SEARCH_PATHS}
+GCC_PREPROCESSOR_DEFINITIONS = $(inherited) COCOAPODS=1
+HEADER_SEARCH_PATHS = "${PODS_ROOT}/Headers/Build" "${PODS_ROOT}/Headers/Build/AVOSCloud" "${PODS_ROOT}/Headers/Public" "${PODS_ROOT}/Headers/Public/AVOSCloud" "${PODS_ROOT}/Headers/Public/SVProgressHUD" "${PODS_ROOT}/Headers/Public/TransitionKit"
+OTHER_LDFLAGS = ${PODS_AVOSCLOUD_OTHER_LDFLAGS} -ObjC
+PODS_ROOT = ${SRCROOT}
